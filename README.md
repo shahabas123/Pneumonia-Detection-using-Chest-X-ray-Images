@@ -67,11 +67,8 @@ Input Size: Images are resized to 150x150 pixels.
 
 Performance:
 
-Accuracy: 92%
+Accuracy: 80%
 
-Precision: 91%
-
-Recall: 93%
 
 Technologies Used
 Streamlit: For building the web app.
