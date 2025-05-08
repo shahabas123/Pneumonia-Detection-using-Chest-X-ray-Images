@@ -69,7 +69,7 @@ Pneumonia: Signs of pneumonia present.
 
 Model
 
-Release:
+Release: https://github.com/shahabas123/Pneumonia-Detection-using-Chest-X-ray-Images/releases/tag/v1
 
 Architecture: The model is a Convolutional Neural Network (CNN) built using TensorFlow/Keras.
 
