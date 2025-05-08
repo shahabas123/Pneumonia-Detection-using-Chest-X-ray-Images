@@ -69,6 +69,8 @@ Pneumonia: Signs of pneumonia present.
 
 Model
 
+Release:
+
 Architecture: The model is a Convolutional Neural Network (CNN) built using TensorFlow/Keras.
 
 Input Size: Images are resized to 150x150 pixels.
